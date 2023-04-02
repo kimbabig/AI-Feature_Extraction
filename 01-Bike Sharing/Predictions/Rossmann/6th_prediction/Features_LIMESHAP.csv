@@ -1,0 +1,2 @@
+,total_count,rec_id,year,month,temp,atemp,humidity,windspeed,season_1,season_2,season_3,season_4,is_workingday_0,is_workingday_1,is_holiday_0,is_holiday_1,weather_condition_1,weather_condition_2,weather_condition_3,weekday_0,weekday_1,weekday_2,weekday_3,weekday_4,weekday_5,weekday_6,day
+0,0,0,0,0,0,0,0,0.006804986485745829,0,0,-0.0037774688757018938,0,0,0.00530851059191171,0,0.0039227329714157134,0,-0.003680305521618806,0,0,-0.010942346119503387,0,0,0.0103114069031902,0.004448279190710527,0.004382367172993338,0.005559880955220012
