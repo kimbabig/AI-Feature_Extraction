@@ -24,3 +24,6 @@ as well as the IMV_LSTM.py file
 - run the Rossmann data exploration script, run the GridSearch_and_effects up to the all features section, full run the Single Run script, run the rest of the GridSearch file
 
 - to change stores to be ran, in the GridSearch just need to change the Rossmann_df = Rossmann_df[Rossmann_df['Store'] == XXX ]  on the 6th cell, and on the Single Run is the same thing on the beginning of the 6th cell as well as the df_og = df_og [df_og ['Store'] == XXX ] on the third to last cell
+
+
+Stores currently being run ( picked at random): 266, 133, 558 785, 135, 355, 714, 830
